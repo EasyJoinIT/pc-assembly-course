@@ -1,0 +1,27 @@
+@use 'sass:math';
+@use 'sass:color';
+
+// IMPORT UTILS
+@import 'utils/mixins/fonts';
+@import 'utils/vars';
+
+
+// IMPORT COMMON
+@import 'common/reset';
+@import 'common/typography';
+@import 'common/general';
+@import 'common/layout';
+
+// COMPONENTS
+
+// IMPORT BLOCKS
+@import 'blocks/header';
+@import 'blocks/footer';
+@import 'blocks/block1';
+@import 'blocks/block2';
+@import 'blocks/block3';
+@import 'blocks/block4';
+@import 'blocks/block5';
+@import 'blocks/block6';
+@import 'blocks/block7';
+@import 'blocks/modal';
